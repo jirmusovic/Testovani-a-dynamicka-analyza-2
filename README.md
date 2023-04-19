@@ -1,8 +1,5 @@
 # Zadání 2. projektu ITS 2022/23
 
-* Autor, revize: Aleš Smrčka, 2023-04-05 
-* Název projektu: GUI testy e-commerce systému OpenCart
-* Přílohy: Projekt2-skripty.zip obsahující soubory `docker-compose.yml`, `get_driver.py` a `run-test.sh`
 
 ## Cíl
 
