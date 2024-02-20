@@ -1,5 +1,6 @@
 # Zadání 2. projektu ITS 2022/23
 
+15/20 (nebyl cas)
 
 ## Cíl
 
